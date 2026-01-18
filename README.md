@@ -7,6 +7,7 @@
 - **DragGAN/**: 基于DragGAN的图像编辑实现
 - **DragDiffusion/**: 基于扩散模型的Drag操作实现
 - **PTI/**: 基于PTI（Pivotal Tuning Inversion）的GAN反演实现
+- **renderer.py**：为探索方向一：追踪鲁棒性增强 Tracking Robustness的替换代码，用于替换DragGAN/viz/renderer.py同名文件
 
 ## 快速开始
 每个子项目均有独立的说明文档，请查看对应文件夹中的README.md。
